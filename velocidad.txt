@@ -1,0 +1,2 @@
+Velocidad del móvil:  m/s
+Fórmula: posición(t) = 2 +  × t
